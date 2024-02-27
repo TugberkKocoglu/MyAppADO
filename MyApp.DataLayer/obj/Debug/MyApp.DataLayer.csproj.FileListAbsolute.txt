@@ -1,0 +1,6 @@
+C:\Users\cenkh\OneDrive\Desktop\MyApp\MyApp.DataLayer\bin\Debug\MyApp.DataLayer.dll
+C:\Users\cenkh\OneDrive\Desktop\MyApp\MyApp.DataLayer\bin\Debug\MyApp.DataLayer.pdb
+C:\Users\cenkh\OneDrive\Desktop\MyApp\MyApp.DataLayer\obj\Debug\MyApp.DataLayer.csproj.AssemblyReference.cache
+C:\Users\cenkh\OneDrive\Desktop\MyApp\MyApp.DataLayer\obj\Debug\MyApp.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\cenkh\OneDrive\Desktop\MyApp\MyApp.DataLayer\obj\Debug\MyApp.DataLayer.dll
+C:\Users\cenkh\OneDrive\Desktop\MyApp\MyApp.DataLayer\obj\Debug\MyApp.DataLayer.pdb

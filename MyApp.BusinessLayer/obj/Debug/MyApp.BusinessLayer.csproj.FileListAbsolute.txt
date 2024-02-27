@@ -1,0 +1,9 @@
+C:\Users\cenkh\OneDrive\Desktop\MyApp\MyApp.BusinessLayer\bin\Debug\MyApp.BusinessLayer.dll
+C:\Users\cenkh\OneDrive\Desktop\MyApp\MyApp.BusinessLayer\bin\Debug\MyApp.BusinessLayer.pdb
+C:\Users\cenkh\OneDrive\Desktop\MyApp\MyApp.BusinessLayer\bin\Debug\MyApp.DataLayer.dll
+C:\Users\cenkh\OneDrive\Desktop\MyApp\MyApp.BusinessLayer\bin\Debug\MyApp.DataLayer.pdb
+C:\Users\cenkh\OneDrive\Desktop\MyApp\MyApp.BusinessLayer\obj\Debug\MyApp.BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\cenkh\OneDrive\Desktop\MyApp\MyApp.BusinessLayer\obj\Debug\MyApp.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\cenkh\OneDrive\Desktop\MyApp\MyApp.BusinessLayer\obj\Debug\MyApp.BusinessLayer.csproj.CopyComplete
+C:\Users\cenkh\OneDrive\Desktop\MyApp\MyApp.BusinessLayer\obj\Debug\MyApp.BusinessLayer.dll
+C:\Users\cenkh\OneDrive\Desktop\MyApp\MyApp.BusinessLayer\obj\Debug\MyApp.BusinessLayer.pdb

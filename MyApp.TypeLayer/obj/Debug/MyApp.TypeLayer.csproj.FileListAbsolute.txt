@@ -1,0 +1,6 @@
+C:\Users\cenkh\OneDrive\Desktop\MyApp\MyApp.TypeLayer\bin\Debug\MyApp.TypeLayer.dll
+C:\Users\cenkh\OneDrive\Desktop\MyApp\MyApp.TypeLayer\bin\Debug\MyApp.TypeLayer.pdb
+C:\Users\cenkh\OneDrive\Desktop\MyApp\MyApp.TypeLayer\obj\Debug\MyApp.TypeLayer.csproj.AssemblyReference.cache
+C:\Users\cenkh\OneDrive\Desktop\MyApp\MyApp.TypeLayer\obj\Debug\MyApp.TypeLayer.csproj.CoreCompileInputs.cache
+C:\Users\cenkh\OneDrive\Desktop\MyApp\MyApp.TypeLayer\obj\Debug\MyApp.TypeLayer.dll
+C:\Users\cenkh\OneDrive\Desktop\MyApp\MyApp.TypeLayer\obj\Debug\MyApp.TypeLayer.pdb
